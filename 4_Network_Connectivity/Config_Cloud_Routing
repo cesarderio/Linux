@@ -1,0 +1,52 @@
+# Configuring Linux Routing in the Cloud Using Azure Route Tables
+
+<br>
+
+## Introduction
+
+- **Objective**: Learn how to configure cloud-based routing for Linux VMs in Microsoft Azure.
+- **Host**: Dan Lachance demonstrates the process of configuring cloud routing in Azure.
+
+<br>
+
+## Steps for Configuring Cloud Routing in Azure
+
+1. **Accessing Azure Portal**:
+   - Login to Microsoft Azure and navigate to the Virtual machines section.
+   - Identify the virtual machine (e.g., Ubuntu1) to configure routing for.
+
+2. **Examining Network Settings**:
+   - Access the networking settings of the VM to determine its virtual network and subnet.
+
+3. **Creating a Route Table**:
+   - In Azure, go to 'Create a resource' and search for 'Route table'.
+   - Create a new route table in the desired resource group and region.
+
+4. **Configuring Route Table**:
+   - After creation, access the route table's properties to add routes.
+   - Add a route to direct traffic to specific destinations, such as a firewall appliance.
+   - Set the destination type (e.g., IP Addresses) and specify the destination range (e.g., 0.0.0.0/0 for default route).
+   - Choose 'Virtual appliance' as the next hop type and input the firewall's internal IP address.
+
+5. **Associating Route Table with Subnet**:
+   - Associate the newly created route table with the relevant subnet (e.g., default subnet in Ubuntu1-vnet).
+   - Ensure that the route table is properly linked to the subnet to direct VM traffic accordingly.
+
+6. **Verifying Configuration**:
+   - Check the subnet's properties to confirm the association of the route table.
+   - All VMs in the associated subnet will now use the defined routes in the route table.
+
+<br>
+
+## Practical Applications
+
+- **Cloud Network Management**: Setting up routing in Azure to manage traffic flow of Linux VMs.
+- **Security Enhancement**: Directing VM traffic through security appliances like firewalls.
+- **Customized Routing**: Tailoring cloud network traffic paths to meet specific organizational needs.
+
+<br>
+
+## Summary
+
+- **Cloud Routing Skills**: Understanding how to set up and manage routing tables in Azure is essential for cloud network configuration.
+- **Impact on VMs**: The routing configurations impact all VMs within the associated subnet, guiding their traffic through predefined paths.
