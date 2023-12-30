@@ -124,13 +124,37 @@ Welcome to my collection of notes for the CompTIA Linux+ Certification. This rep
 * [SSL & TLS](./9_Threats&Cryptography/11_SSL&TLS.md)
 * [Enabling HTTPS Binding](./9_Threats&Cryptography/12_HTTPS_Binding.md)
 
-<!-- <br> -->
+<br>
 
-<!-- ### Authentication & Authorization -->
+### Authentication & Authorization
 
-<!-- <br> -->
+* [Authentication & Authorization](./10_Authentication&Authorization/1_Authentication&Authorization.md)
+* [Pluggable Authentication Modules (PAM)](./10_Authentication&Authorization/2_PAM.md)
+* [Managing User Accounts & Permissions](./10_Authentication&Authorization/3_User_Accounts.md)
+* [Managing & Configuring Groups](./10_Authentication&Authorization/4_Groups.md)
+* [User Configuration Files](./10_Authentication&Authorization/5_User_Config_Files.md)
+* [Sudo](./10_Authentication&Authorization/6_Sudo.md)
+* [Remote Management](./10_Authentication&Authorization/7_Remote_Management.md)
+* [SSH, Port Forwarding & Tunneling](./10_Authentication&Authorization/8_SSH&Tunnels.md)
+* [SSH Configuration](./10_Authentication&Authorization/9_SSH_Config.md)
+* [LDAP Server Authentication](./10_Authentication&Authorization/10_LDAP_Server.md)
+* [LDAP Client Authentication](./10_Authentication&Authorization/11_LDAP_Client.md)
 
-<!-- ### Firewalls & Monitoring -->
+<br>
+
+### Firewalls & Monitoring
+
+* [Firewall Types](./11_Firewalls/1_Firewall_Types.md)
+* [Firewalls & Port Forwarding](./11_Firewalls/2_Firewalls&Forwarding.md)
+* [Confuring Firewall with iptables](./11_Firewalls/3_IPtables.md)
+* [Configuring Firewall with UFW](./11_Firewalls/4_UFW.md)
+* [Proxy Servers](./11_Firewalls/5_Proxy_Servers.md)
+* [Deploying a Squid Proxy Server](./11_Firewalls/6_Squid_Server.md)
+* [Intrusion Detection & Prevention](./11_Firewalls/7_Intrusion_Detection&Prevention.md)
+* [Configuring SNORT IDS](./11_Firewalls/8_Snort_IDS.md)
+* [Honeypots & Honeynets](./11_Firewalls/9_Honeypots.md)
+* [Security Information & Event Management (SIEM)](./11_Firewalls/10_SIEM.md)
+* [Security Orchestration, Automation, & Response (SOAR)](./11_Firewalls/11_SOAR.md)
 
 <!-- <br> -->
 
