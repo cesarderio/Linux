@@ -156,9 +156,19 @@ Welcome to my collection of notes for the CompTIA Linux+ Certification. This rep
 * [Security Information & Event Management (SIEM)](./11_Firewalls/10_SIEM.md)
 * [Security Orchestration, Automation, & Response (SOAR)](./11_Firewalls/11_SOAR.md)
 
-<!-- <br> -->
+<br>
 
-<!-- ### Securing Linux -->
+### Securing Linux
+
+* [Linux Hardening: Enhancing Security and Reducing Attack Surface](./12_Securing_Linux/1_Linux_Hardening.md)
+* [Understanding UEFI and Secure Boot in Linux Systems](./12_Securing_Linux/2_UEFI_Secure_Boot.md)
+* [Configuring Umask in Linux for Enhanced File Permissions](./12_Securing_Linux/3_Permissions_umask.md)
+* [Nmap Scanning on Linux: An Overview](./12_Securing_Linux/4_Scanning.md)
+* [Vulnerability Scanning on Linux: Using Tenable Nessus](./12_Securing_Linux/5_Assessing_Security.md)
+* [Hardening Linux Hosts: Reducing Attack Surface](./12_Securing_Linux/6_Disabling&Removing.md)
+* [Understanding and Mitigating Reverse Shells in Linux](./12_Securing_Linux/7_Reverse_Shell.md)
+* [Managing Advanced File System Permissions in Linux](./12_Securing_Linux/8_Advanced_Permissions.md)
+
 
 <!-- <br> -->
 
