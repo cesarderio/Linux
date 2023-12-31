@@ -10,11 +10,7 @@ Linux technicians must be aware of prevalent security threats to establish robus
 
 ## Social Engineering
 
-<br>
-
-### Description
-
-- **Social Engineering**: Involves deceiving individuals into revealing sensitive information or granting access to secured resources. It's a major threat as it targets human vulnerabilities rather than technical flaws.
+Involves deceiving individuals into revealing sensitive information or granting access to secured resources. It's a major threat as it targets human vulnerabilities rather than technical flaws.
 
 <br>
 
@@ -31,11 +27,9 @@ Linux technicians must be aware of prevalent security threats to establish robus
 - **Awareness Training**: Educate users on recognizing and reporting potential social engineering attempts.
 - **Verification Protocols**: Establish procedures to verify identities before granting access or sharing sensitive data.
 
-## Malware and Phishing
-
 <br>
 
-### Description
+## Malware and Phishing
 
 - **Malware**: Malicious software designed to damage or disrupt systems.
 - **Phishing**: A form of social engineering where attackers masquerade as legitimate entities to steal sensitive data.
@@ -58,11 +52,7 @@ Linux technicians must be aware of prevalent security threats to establish robus
 
 ## Default Settings and Poor Configuration
 
-<br>
-
-### Description
-
-- Using default settings, particularly usernames and passwords, poses a significant security risk.
+Using default settings, particularly usernames and passwords, poses a significant security risk.
 
 <br>
 

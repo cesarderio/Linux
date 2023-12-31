@@ -10,47 +10,47 @@ Welcome to my collection of notes for the CompTIA Linux+ Certification. This rep
 
 ### Installing and Navigating Linux:
 
-* [Overview of Linux](./Installation&FSys_Navigation/Overview.md)
-* [Boot & Startup Processes](./Installation&FSys_Navigation/Startup.md)
-* [Installation of Linux](./Installation&FSys_Navigation/Installation.md)
-* [File System Navigation](./Installation&FSys_Navigation/File_Sys_Nav.md)
+* [Overview of Linux](./1_Installation&FSys_Navigation/Overview.md)
+* [Boot & Startup Processes](./1_Installation&FSys_Navigation/Startup.md)
+* [Installation of Linux](./1_Installation&FSys_Navigation/Installation.md)
+* [File System Navigation](./1_Installation&FSys_Navigation/File_Sys_Nav.md)
 
 <br>
 
 ### Storage & Disk Management
 
-* [Storage Concepts](./Storage&File_Systems/Storage_Concepts.md)
-* [Storage Management](./Storage&File_Systems/Storage_Management.md)
-* [Mounting File Systems](./Storage&File_Systems/Mount.md)
-* [Linux File System Hard and Soft (Symbolic) Links](./Storage&File_Systems/Links.md)
-* [Disk Management](./Storage&File_Systems/Disk_Management.md)
-* [RAID Disk Management](./Storage&File_Systems/RAID.md)
-* [Linux Volume Management](./Storage&File_Systems/LVM.md)
-* [Network Storage](./Storage&File_Systems/Network_Storage.md)
+* [Storage Concepts](./2_Storage&File_Systems/Storage_Concepts.md)
+* [Storage Management](./2_Storage&File_Systems/Storage_Management.md)
+* [Mounting File Systems](./2_Storage&File_Systems/Mount.md)
+* [Linux File System Hard and Soft (Symbolic) Links](./2_Storage&File_Systems/Links.md)
+* [Disk Management](./2_Storage&File_Systems/Disk_Management.md)
+* [RAID Disk Management](./2_Storage&File_Systems/RAID.md)
+* [Linux Volume Management](./2_Storage&File_Systems/LVM.md)
+* [Network Storage](./2_Storage&File_Systems/Network_Storage.md)
 
 <br>
 
 ### File Systems & Permissions Management
 
-* [Managing Standard Linux File System Permissions](./Perms_Mans/1Standard_Perms.md)
-* [Extended ACL File System Permissions](./Perms_Mans/3ACL.md)
-* [Managing Extended ACL Linux File System Permissions](./Perms_Mans/4ACL_Man.md)
-* [Linux File Compression and Archiving Tools](./Perms_Mans/5Compression.md)
-* [Managing Linux Compression and Archiving](./Perms_Mans/6Comp_Man.md)
+* [Managing Standard Linux File System Permissions](./3_Perms_Mans/1Standard_Perms.md)
+* [Extended ACL File System Permissions](./3_Perms_Mans/3ACL.md)
+* [Managing Extended ACL Linux File System Permissions](./3_Perms_Mans/4ACL_Man.md)
+* [Linux File Compression and Archiving Tools](./3_Perms_Mans/5Compression.md)
+* [Managing Linux Compression and Archiving](./3_Perms_Mans/6Comp_Man.md)
 
 <br>
 
 ### Network Connectivity
 
-* [IP Addressing](./Network_Connectivity/IP_Addressing.md)
-* [Network Commands](./Network_Connectivity/Network_Commands.md)
-* [Network Interfaces](./Network_Connectivity/Network_Interfaces.md.md)
-* [Network Routing](./Network_Connectivity/Network_Routing.md)
-* [Configuring Routing in Linux](./Network_Connectivity/Config_Routing.md)
-* [Configuring Routing in the Cloud](./Network_Connectivity/Config_Cloud_Routing)
-* [tcdump](./Network_Connectivity/tcpdump.md)
-* [Wireshark](./Network_Connectivity/Wireshark.md)
-* [Snychronization with rsync](./Network_Connectivity/SynchWith_rsync.md)
+* [IP Addressing](./4_Network_Connectivity/IP_Addressing.md)
+* [Network Commands](./4_Network_Connectivity/Network_Commands.md)
+* [Network Interfaces](./4_Network_Connectivity/Network_Interfaces.md.md)
+* [Network Routing](./4_Network_Connectivity/Network_Routing.md)
+* [Configuring Routing in Linux](./4_Network_Connectivity/Config_Routing.md)
+* [Configuring Routing in the Cloud](./4_Network_Connectivity/Config_Cloud_Routing)
+* [tcdump](./4_Network_Connectivity/tcpdump.md)
+* [Wireshark](./4_Network_Connectivity/Wireshark.md)
+* [Snychronization with rsync](./4_Network_Connectivity/SynchWith_rsync.md)
 
 <br>
 
