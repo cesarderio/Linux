@@ -244,36 +244,36 @@ Welcome to my collection of notes for the CompTIA Linux+ Certification. This rep
 
 <br>
 
-<!-- ### Network & Storage Troublshooting -->
+### Network & Storage Troublshooting
 
-<!-- * [Storage and Network Hardware Troubleshooting](./18_Storage&Network_Troubleshooting/1_Hardware.md) -->
-<!-- * [Troubleshooting Storage and Network Hardware](./18_Storage&Network_Troubleshooting/2_Hardware.md) -->
-<!-- * [Resizing Partitions and Filesystems](./18_Storage&Network_Troubleshooting/3_Resizing.md) -->
-<!-- * [Managing Linux Swap Space](./18_Storage&Network_Troubleshooting/4_Swap_Space.md) -->
-<!-- * [Troubleshooting OS Network Configuration Issues](./18_Storage&Network_Troubleshooting/5_OS_Network_Config.md) -->
-<!-- * [Troubleshooting the Apache Web Server](./18_Storage&Network_Troubleshooting/6_Apache.md) -->
+* [Storage and Network Hardware Troubleshooting](./18_Storage&Network_Troubleshooting/1_Hardware.md)
+* [Troubleshooting Storage and Network Hardware](./18_Storage&Network_Troubleshooting/2_Hardware.md)
+* [Resizing Partitions and Filesystems](./18_Storage&Network_Troubleshooting/3_Resizing.md)
+* [Managing Linux Swap Space](./18_Storage&Network_Troubleshooting/4_Swap_Space.md)
+* [Troubleshooting OS Network Configuration Issues](./18_Storage&Network_Troubleshooting/5_OS_Network_Config.md)
+* [Troubleshooting the Apache Web Server](./18_Storage&Network_Troubleshooting/6_Apache.md)
 
-<!-- <br> -->
+<br>
 
-<!-- ### Permissions Issues & Restoring Linux OS -->
+### Permissions Issues & Restoring Linux OS
 
-<!-- * [Common User and File Permissions Issues](./19_Permissions&Restore/1_Common_Issues.md) -->
-<!-- * [Troubleshooting User and File Permissions](./19_Permissions&Restore/2_User_Perms.md) -->
-<!-- * [Managing sudo and SUID Elevated Permissions](./19_Permissions&Restore/3_sudo&SUID.md) -->
-<!-- * [Resetting a Forgotten Root Password](/19_Permissions&Restore/4_root.md) -->
-<!-- * [Configuring User and Group File System Quota Limits](./19_Permissions&Restore/5_Qoutas.md) -->
-<!-- * [Reverting to a Cloud Linux Virtual Machine Disk Snapshot](./19_Permissions&Restore/6_Disk_Snapshot.md) -->
-<!-- * [Reverting to an On-premises Linux Virtual Machine Snapshot](./19_Permissions&Restore/7_Revert_on-prem.md) -->
-<!-- * [Backing Up and Restoring Cloud Linux Virtual Machines](./19_Permissions&Restore/8_Backup&Restore.md) -->
+* [Common User and File Permissions Issues](./19_Permissions&Restore/1_Common_Issues.md)
+* [Troubleshooting User and File Permissions](./19_Permissions&Restore/2_User_Perms.md)
+* [Managing sudo and SUID Elevated Permissions](./19_Permissions&Restore/3_sudo&SUID.md)
+* [Resetting a Forgotten Root Password](/19_Permissions&Restore/4_root.md)
+* [Configuring User and Group File System Quota Limits](./19_Permissions&Restore/5_Qoutas.md)
+* [Reverting to a Cloud Linux Virtual Machine Disk Snapshot](./19_Permissions&Restore/6_Disk_Snapshot.md)
+* [Reverting to an On-premises Linux Virtual Machine Snapshot](./19_Permissions&Restore/7_Revert_on-prem.md)
+* [Backing Up and Restoring Cloud Linux Virtual Machines](./19_Permissions&Restore/8_Backup&Restore.md)
 
-<!-- <br> -->
+<br>
 
-<!-- ### Systemd for Troublshooting -->
+### Systemd for Troublshooting
 
-<!-- * [Linux systemd and Service Units](./20_Systemd/1_systemd_service_units.md) -->
-<!-- * [Managing Linux Services with systemd](./20_Systemd/2_Managing_Services.md) -->
-<!-- * [Troubleshooting DNS Using systemd](./20_Systemd/3_DNS_systemd.md) -->
-<!-- * [Managing systemd Timer](./20_Systemd/4_systemd_timer.md) -->
+* [Linux systemd and Service Units](./20_Systemd/1_systemd_service_units.md)
+* [Managing Linux Services with systemd](./20_Systemd/2_Managing_Services.md)
+* [Troubleshooting DNS Using systemd](./20_Systemd/3_DNS_systemd.md)
+* [Managing systemd Timer](./20_Systemd/4_systemd_timer.md)
 
 <br>
 
