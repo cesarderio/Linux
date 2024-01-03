@@ -180,7 +180,8 @@ Welcome to my collection of notes for the CompTIA Linux+ Certification. This rep
 * [Managing SELinux Users](./13_SELinux/4_SELinux_Users.md)
 * [Managing the Apache Process and Files](./13_SELinux/5_Apache_Procs.md)
 * [Exploring AppArmor](./13_SELinux/6_AppArmor.md)
-<!-- <br> -->
+
+<br>
 
 ### Bash Shell Scripting
 
