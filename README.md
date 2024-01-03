@@ -170,37 +170,110 @@ Welcome to my collection of notes for the CompTIA Linux+ Certification. This rep
 * [Managing Advanced File System Permissions in Linux](./12_Securing_Linux/8_Advanced_Permissions.md)
 
 
+<br>
+
+### Managing SELinux
+
+* [Security-Enhanced Linux (SELinux)](./13_SELinux/1_Security-Enhanced_Linux.md)
+* [Enabling SELinux on Ubuntu](./13_SELinux/2_Enabling_SELinux.md)
+* [Configure SELinux](./13_SELinux/3_Configure_SELinux.md)
+* [Managing SELinux Users](./13_SELinux/4_SELinux_Users.md)
+* [Managing the Apache Process and Files](./13_SELinux/5_Apache_Procs.md)
+* [Exploring AppArmor](./13_SELinux/6_AppArmor.md)
 <!-- <br> -->
 
-<!-- ### Managing SELinux -->
+### Bash Shell Scripting
 
-<!-- <br> -->
+* [Linux Shell Scripts](./14_Bash_Script/1_Linux_Shell_Scripts.md)
+* [Shell Script Comparison, Piping, and Redirection Operators](./14_Bash_Script/2_Shell_Basics.md)
+* [Shell Script Looping Constructs](./14_Bash_Script/3_Loops.md)
+* [Managing Linux Environment and Shell Script Variables](./14_Bash_Script/4_Environment_Variables.md)
+* [Writing and Running a Simple Shell Script](./14_Bash_Script/5_Running_Scripts.md)
+* [Deploying a Shell Script to AWS Virtual Machines](./14_Bash_Script/6_Deploy_Script_AWS.md)
+* [Parameterizing Shell Scripts](./14_Bash_Script/7_Parameters.md)
+* [Working With Array Variables](./14_Bash_Script/8_Arrays.md)
+* [Creating a Shell Script Function](./14_Bash_Script/9_Functions.md)
+* [Writing and Running a Backup Shell Script](./14_Bash_Script/10_Backup_Script.md)
+* [Scheduling a Backup Shell Script](./14_Bash_Script/11_Schedule_Backups.md)
+* [Writing and Running a "For" Looping Shell Script](./14_Bash_Script/12_For_Loops.md)
+* [Writing and Running a "While" Looping Shell Script](./14_Bash_Script/13_While_Loops.md)
+* [Troubleshooting Shell Scripts](./14_Bash_Script/14_Troubleshooting.md)
 
-<!-- ### Bash Scripting -->
+<br>
 
-<!-- <br> -->
+### Application Containers
 
-<!-- ### Application Containers -->
+* [Application Containers](./15_Application_Containers/1_Application_Containers.md)
+* [Installing Docker on Linux](./15_Application_Containers/2_Docker.md)
+* [Docker CLI](./15_Application_Containers/3_Docker_CLI.md)
+* [Configuring a Container Overlay Network](./15_Application_Containers/4_Container_Overlay_Network.md)
+* [Managing Application Containers Using Docker](./15_Application_Containers/5_Managing_Containers.md)
+* [Creating and Using a Cloud-based Container Registry](./15_Application_Containers/6_Cloud-based_Container_Registry.md)
+* [Dockerfiles](./15_Application_Containers/7_Dockerfiles.md)
+* [Managing Dockerfiles](./15_Application_Containers/8_Managing_Dockerfile.md)
+* [Kubernetes](./15_Application_Containers/9_Kubernetes.md)
+* [Deploying a Cloud-based Kubernetes Cluster](./15_Application_Containers/10_Cloud-based_Kube_Cluster.md)
+* [Managing Kubernetes With kubectl](./15_Application_Containers/11_Kubectl.md)
 
-<!-- <br> -->
+<br>
 
 <!-- ### Infrastructure as Code -->
 
-<!-- <br> -->
+* [Infrastructure as Code](./16_Infrastructure_as_Code/1_Infrastructure_as_Code.md)
+* [Continuous Integration and Continuous Deployment (CI/CD)](./16_Infrastructure_as_Code/2_CICD.md)
+* [Deploying Infrastructure as Code Using Terraform](./16_Infrastructure_as_Code/3_Terraform.md)
+* [Git and Version Control](./16_Infrastructure_as_Code/4_Git&Version_Control.md)
+* [Installing Git on Linux](./16_Infrastructure_as_Code/5_Git&Linux.md)
+* [Cloning a Git Repository](./16_Infrastructure_as_Code/6_Cloning_Git.md)
+* [Managing a Git Repository](./16_Infrastructure_as_Code/7_Git_Repository.md)
+* [Branching and Merging a Git Repository](./16_Infrastructure_as_Code/8_Branch&Merge.md)
+* [Managing Git Events to Trigger Git Hooks](./16_Infrastructure_as_Code/9_Events&Hooks.md)
 
-<!-- ### Performance Troublshooting -->
+<br>
 
-<!-- <br> -->
+### Performance Troublshooting
+
+* [Troubleshooting Methodology](./17_Linux_Troubleshooting/1_Methodology.md)
+* [CPU and Memory Troubleshooting](./17_Linux_Troubleshooting/2_CPU&Memory.md)
+* [Viewing Memory Performance](./17_Linux_Troubleshooting/3_Memory_Performance.md)
+* [Viewing CPU Performance](./17_Linux_Troubleshooting/4_CPU_Performance.md)
+* [Managing Linux Process CPU Time](./17_Linux_Troubleshooting/5_Processes.md)
+* [Troubleshooting Linux Boot Problems](./17_Linux_Troubleshooting/6_Boot_Problems.md)
+* [Vertically Scaling Linux for Performance](./17_Linux_Troubleshooting/7_Vertical_Scaling.md)
+* [Scaling Linux Horizontally with Load Balancing](./17_Linux_Troubleshooting/8_Horizontal_Scaling.md)
+
+<br>
 
 <!-- ### Network & Storage Troublshooting -->
+
+<!-- * [Storage and Network Hardware Troubleshooting](./18_Storage&Network_Troubleshooting/1_Hardware.md) -->
+<!-- * [Troubleshooting Storage and Network Hardware](./18_Storage&Network_Troubleshooting/2_Hardware.md) -->
+<!-- * [Resizing Partitions and Filesystems](./18_Storage&Network_Troubleshooting/3_Resizing.md) -->
+<!-- * [Managing Linux Swap Space](./18_Storage&Network_Troubleshooting/4_Swap_Space.md) -->
+<!-- * [Troubleshooting OS Network Configuration Issues](./18_Storage&Network_Troubleshooting/5_OS_Network_Config.md) -->
+<!-- * [Troubleshooting the Apache Web Server](./18_Storage&Network_Troubleshooting/6_Apache.md) -->
 
 <!-- <br> -->
 
 <!-- ### Permissions Issues & Restoring Linux OS -->
 
+<!-- * [Common User and File Permissions Issues](./19_Permissions&Restore/1_Common_Issues.md) -->
+<!-- * [Troubleshooting User and File Permissions](./19_Permissions&Restore/2_User_Perms.md) -->
+<!-- * [Managing sudo and SUID Elevated Permissions](./19_Permissions&Restore/3_sudo&SUID.md) -->
+<!-- * [Resetting a Forgotten Root Password](/19_Permissions&Restore/4_root.md) -->
+<!-- * [Configuring User and Group File System Quota Limits](./19_Permissions&Restore/5_Qoutas.md) -->
+<!-- * [Reverting to a Cloud Linux Virtual Machine Disk Snapshot](./19_Permissions&Restore/6_Disk_Snapshot.md) -->
+<!-- * [Reverting to an On-premises Linux Virtual Machine Snapshot](./19_Permissions&Restore/7_Revert_on-prem.md) -->
+<!-- * [Backing Up and Restoring Cloud Linux Virtual Machines](./19_Permissions&Restore/8_Backup&Restore.md) -->
+
 <!-- <br> -->
 
 <!-- ### Systemd for Troublshooting -->
+
+<!-- * [Linux systemd and Service Units](./20_Systemd/1_systemd_service_units.md) -->
+<!-- * [Managing Linux Services with systemd](./20_Systemd/2_Managing_Services.md) -->
+<!-- * [Troubleshooting DNS Using systemd](./20_Systemd/3_DNS_systemd.md) -->
+<!-- * [Managing systemd Timer](./20_Systemd/4_systemd_timer.md) -->
 
 <br>
 
