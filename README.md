@@ -217,7 +217,7 @@ Welcome to my collection of notes for the CompTIA Linux+ Certification. This rep
 
 <br>
 
-<!-- ### Infrastructure as Code -->
+### Infrastructure as Code
 
 * [Infrastructure as Code](./16_Infrastructure_as_Code/1_Infrastructure_as_Code.md)
 * [Continuous Integration and Continuous Deployment (CI/CD)](./16_Infrastructure_as_Code/2_CICD.md)
@@ -231,7 +231,7 @@ Welcome to my collection of notes for the CompTIA Linux+ Certification. This rep
 
 <br>
 
-### Performance Troublshooting
+### Performance Troubleshooting
 
 * [Troubleshooting Methodology](./17_Linux_Troubleshooting/1_Methodology.md)
 * [CPU and Memory Troubleshooting](./17_Linux_Troubleshooting/2_CPU&Memory.md)
